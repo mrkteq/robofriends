@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Russo One Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Russo One Regular'), url('RussoOne-Regular.woff') format('woff');
+}
+    
+h1 {
+ font-family: 'Russo One Regular';
+ color: #fff;
+}
+
